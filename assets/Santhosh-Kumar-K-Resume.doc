@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Santhosh Kumar K Resume</title>
+<style>
+body { font-family: Calibri, Arial, sans-serif; line-height: 1.45; margin: 36px; color: #111; }
+h1, h2 { margin: 0; }
+h1 { font-size: 28px; }
+h2 { font-size: 18px; margin-top: 20px; border-bottom: 1px solid #ccc; padding-bottom: 4px; }
+p { margin: 6px 0; }
+ul { margin: 6px 0 10px 20px; }
+a { color: #065fd4; text-decoration: none; }
+.meta { color: #333; font-size: 14px; margin-top: 4px; }
+.row { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+.item-title { font-weight: 700; }
+</style>
+</head>
+<body>
+<h1>SANTHOSH KUMAR K</h1>
+<p class="meta">Java & AI Powered Web Development Enthusiast</p>
+
+<h2>Contact</h2>
+<p><strong>Phone:</strong> +91 70947061111</p>
+<p><strong>Email:</strong> <a href="mailto:santhoshkumark7680@gmail.com">santhoshkumark7680@gmail.com</a></p>
+<p><strong>Address:</strong> No. 4, Chokkalinga Nagar, 3rd Street, Madurai - 625018</p>
+<p><strong>LinkedIn:</strong> <a href="http://www.linkedin.com/in/santhosh-kumar-k-60237a384">linkedin.com/in/santhosh-kumar-k-60237a384</a></p>
+<p><strong>GitHub:</strong> <a href="http://www.github.com/Santhosh-Devlops">github.com/Santhosh-Devlops</a></p>
+<p><strong>LeetCode:</strong> <a href="https://leetcode.com/u/SanthoshK_2k6">leetcode.com/u/SanthoshK_2k6</a></p>
+
+<h2>Profile Summary</h2>
+<p>To leverage my technical expertise and problem-solving skills to contribute effectively to a leading technology organization, while continuously enhancing my knowledge and growing into a high-impact software professional.</p>
+
+<h2>Technical Skills</h2>
+<ul>
+<li><strong>Programming:</strong> Java, C, C++, Python</li>
+<li><strong>Core Concepts:</strong> OOP, Data Structures & Algorithms, Computer Networks, Time Complexity</li>
+<li><strong>Web Development:</strong> HTML, CSS, JavaScript (Basics), ReactJS (Basics), Express JS (Basics), REST API Integration</li>
+<li><strong>AI & Modern Development:</strong> Prompt Engineering, AI-Integrated Web Applications</li>
+<li><strong>Database:</strong> MySQL, MongoDB (NoSQL)</li>
+<li><strong>Tools:</strong> GitHub, VS Code, IntelliJ, NetBeans, Canva (UI Prototyping), Cursor</li>
+</ul>
+
+<h2>Areas of Interest</h2>
+<ul>
+<li>Java Based Problem Solving</li>
+<li>Web Development with AI Integration</li>
+<li>Prompt Engineering & AI-Assisted Workflows</li>
+<li>API-Driven Application Development</li>
+<li>UI Design Fundamentals</li>
+</ul>
+
+<h2>Achievements</h2>
+<ul>
+<li>Awarded Management Scholarship of Rs 10,000 for maintaining a CGPA between 8.00 and 8.49 during the academic year 2024-2025.</li>
+<li>Secured IV Place and won a Rs 2,000 cash prize at Oblivion 2K25, a National-Level 30-hour Hackathon conducted by SNS College of Technology in 2025.</li>
+</ul>
+
+<h2>Education</h2>
+<p class="item-title">B.Tech in Information Technology (2023-2027)</p>
+<p>Mepco Schlenk Engineering College, Sivakasi</p>
+<p>CGPA: 8.28 / 10.00 (Upto Semester 6)</p>
+<p class="item-title">Higher Secondary Certificate (HSC) (2022-2023)</p>
+<p>Maharishi Vidya Mandir Senior Secondary School, Madurai</p>
+<p>Percentage: 81.2%</p>
+
+<h2>Certifications</h2>
+<ul>
+<li>Introduction to IoT, IIT Kharagpur (Jan 2025)</li>
+<li>Data Analytics with Python, IIT Kharagpur (Jan 2025)</li>
+<li>Software Testing, IIT Kharagpur (July 2025)</li>
+<li>Responsive Web Development, INFOSYS Springboard (Jan 2025)</li>
+<li>Frontend for Java Full Stack Development, COURSERA (Jan 2025)</li>
+<li>AWS Certified AI Practitioner, Amazon Web Services (Feb 2026)</li>
+<li>Frontend Developer (React), HackerRank (Mar 2026)</li>
+</ul>
+
+<h2>Projects</h2>
+<ul>
+<li><strong>Laptop Dealership Management System:</strong> Java Swing & MySQL desktop app for managing dealership customers, inventory, and sales. <a href="http://www.github.com/Santhosh-Devlops">GitHub</a></li>
+<li><strong>Smart Railway Navigator for Facilities:</strong> Flask-based web app using REST APIs to help passengers locate railway station facilities. <a href="http://www.github.com/Santhosh-Devlops/TrackAssistS-w">GitHub</a></li>
+<li><strong>Ripples Solutions Website:</strong> Dynamic company website with admin product management and customer inquiry handling. <a href="http://www.github.com/Santhosh-Devlops/Ripples-Solutions">GitHub</a></li>
+<li><strong>Memory Management Techniques Simulator:</strong> Java simulator implementing First Fit, Best Fit, Worst Fit, Slab, and Buddy allocation algorithms. <a href="https://github.com/Santhosh-Devlops/Memory_Management_Techniques">GitHub</a></li>
+</ul>
+
+<h2>Membership</h2>
+<ul>
+<li>Member of GOOGLE Club</li>
+<li>Member of Photography Club</li>
+</ul>
+
+<h2>Symposiums</h2>
+<ul>
+<li>Achieved III Place in Techno Script IEEE Presentation conducted by Thiagarajar College of Engineering, Madurai, in March 2025.</li>
+<li>Attended a Workshop on Science and Technology in Sensors conducted by Thiagarajar College of Engineering, Madurai, in March 2025.</li>
+</ul>
+</body>
+</html>
